@@ -13,7 +13,6 @@ Table of Contents
         Spring Introduction
         REST API Development
         Payroll Application
-        DTO Implementation
     3.Prerequisites
     4.How to Use This Repository
 ===========================================================================================
@@ -54,13 +53,6 @@ Topics Covered
     Entity relationships
     CRUD operations
     Service layer design
-
-05_PayRollDTO
-
-    DTO pattern implementation
-    Mapping entities to DTOs
-    Layer separation benefits
-    Validation techniques
 
 Prerequisites
 
